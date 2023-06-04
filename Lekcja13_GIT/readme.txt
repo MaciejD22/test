@@ -1,0 +1,1 @@
+To jest plik readme do wersji 1.0
